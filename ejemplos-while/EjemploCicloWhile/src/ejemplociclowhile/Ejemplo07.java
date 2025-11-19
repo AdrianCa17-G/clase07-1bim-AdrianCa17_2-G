@@ -31,6 +31,7 @@ public class Ejemplo07 {
         int contador = 0;
 
         System.out.println("Ingrese las notas de los estudiantes de su materia");
+        // while (bandera==true){
         while (bandera) {
             System.out.println("Ingrese calificación");
             calificacion = entrada.nextDouble();
@@ -50,3 +51,13 @@ public class Ejemplo07 {
 
     }
 }
+
+/*
+    Este programa usa el contador para saber 
+    el numero de materias que ingresa el usuario
+    para al final que las pueda dividir ese numero
+    por la suma total de las calificaciones y
+    asi obtener el promedio final de las notas, es 
+    decir ese acumulador va contando de uno en uno
+    hasta que el usuario quiera detener el programa
+*/

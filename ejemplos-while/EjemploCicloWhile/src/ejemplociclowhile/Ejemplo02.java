@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+    El programa pide al usuario ingresar un limite de numeros
+    en el cual dentro de ese limite 
+*/

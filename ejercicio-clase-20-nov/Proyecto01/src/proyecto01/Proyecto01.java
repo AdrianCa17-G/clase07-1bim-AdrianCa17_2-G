@@ -52,7 +52,7 @@ public class Proyecto01 {
             contador = contador + 1;
         }
         
-        System.out.println(mensajeFinal);
+        System.out.printf("%s\n",mensajeFinal);
   
     }
     
